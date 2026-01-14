@@ -1,0 +1,42 @@
+[
+  {
+    "user": {
+      "user_blue_verified": true,
+      "user_description": "Offizieller Account des VfB Stuttgart 1893 / EN: @VfB_int / @VfB_JP / Nachwuchs: @jungundwild / @VfB_Frauen / @VfB_Service",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1727243945174806530/BoDWXHB9_normal.jpg",
+      "followers_count": 502752,
+      "following_count": 87,
+      "cover_picture_url": "https://pbs.twimg.com/profile_banners/138401594/1758039866",
+      "display_name": "VfB Stuttgart 1893",
+      "user_location": "Stuttgart, Deutschland",
+      "verified": true,
+      "id": "138401594",
+      "username": "VfB"
+    },
+    "source": "x",
+    "datetime": "2026-01-13T17:33:26Z",
+    "uri": "https://x.com/VfB/status/2011129473694138780",
+    "text": "Der VfB macht sich zum ersten Mal bemerkbar und geht über den rechten Flügel mit Chris #Führich. Die Hereingabe landet am Bein eines Frankfurters - Eintracht-Keeper Kaua #Santos packt zu.\n\n#VfB | #VfB1893 | #Bundesliga | #VfBSGE 0:0 (3.)",
+    "tweet": {
+      "view_count": 2890,
+      "bookmark_count": 0,
+      "id": "2011129473694138780",
+      "is_quote": false,
+      "like_count": 25,
+      "is_reply": false,
+      "conversation_id": "2011129473694138780",
+      "hashtags": [
+        "#Führich",
+        "#Santos",
+        "#VfB",
+        "#VfB1893",
+        "#Bundesliga",
+        "#VfBSGE"
+      ],
+      "language": "de",
+      "quote_count": 0,
+      "retweet_count": 1,
+      "reply_count": 0
+    }
+  }
+]

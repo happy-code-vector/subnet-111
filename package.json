@@ -1,0 +1,20 @@
+{
+  "name": "streaming-api-fetcher",
+  "version": "1.0.0",
+  "description": "Fetch data from streaming API with timeout",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "streaming",
+    "api"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@bufbuild/protobuf": "^2.10.2",
+    "macrocosmos": "^2.1.1"
+  }
+}
