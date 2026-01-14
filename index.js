@@ -5,6 +5,7 @@ const API_KEY = '2d0fbe7776c8b59999868b4631fcd540749d3bd6d436977bf3d6a573320bdc6
 const TIMEOUT_SECONDS = 60; // Change this to your desired timeout
 
 async function fetchStreamingData() {
+  const startTime = Date.now();
   const collectedData = [];
   let timeoutId;
   
@@ -59,6 +60,11 @@ async function fetchStreamingData() {
     // Save collected data to output.json
     await fs.writeFile('output.json', JSON.stringify(collectedData, null, 2));
     console.log(`\nSaved ${collectedData.length} items to output.json`);
+    
+    // Calculate and display total execution time
+    const endTime = Date.now();
+    const totalTime = ((endTime - startTime) / 1000).toFixed(2);
+    console.log(`Total execution time: ${totalTime} seconds`);
   }
 }
 
